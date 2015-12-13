@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hola Tierra</string>
+    <string name="action_settings">Configuracion</string>
+    <string name="hello_world">Hola, Mundo!</string>
+</resources>

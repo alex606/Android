@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Perder el tiempo</string>
+    <string name="action_settings">Configuracion</string>
+    <string name="hello_world">Hola mundo</string>
+    <string name="users_name_edit_text">Su nombre</string>
+    <string name="happy_question">Eres feliz??</string>
+    <string name="answer_yes_button">Si</string>
+    <string name="answer_no_button">No</string>
+    <string name="hint_pick_me">Llevarnos</string>
+    <string name="hint_pick_me_no">No, me recogiera</string>
+</resources>
